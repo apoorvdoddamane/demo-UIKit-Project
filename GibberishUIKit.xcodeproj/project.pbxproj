@@ -16,6 +16,7 @@
 		62BB24CA28DB2B4B008F9551 /* GibberishUIKitTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 62BB24C928DB2B4B008F9551 /* GibberishUIKitTests.swift */; };
 		62BB24D428DB2B4B008F9551 /* GibberishUIKitUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 62BB24D328DB2B4B008F9551 /* GibberishUIKitUITests.swift */; };
 		62BB24D628DB2B4B008F9551 /* GibberishUIKitUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 62BB24D528DB2B4B008F9551 /* GibberishUIKitUITestsLaunchTests.swift */; };
+		62BB24E428DB42F2008F9551 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 62BB24E328DB42F2008F9551 /* .gitignore */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		62BB24CF28DB2B4B008F9551 /* GibberishUIKitUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GibberishUIKitUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		62BB24D328DB2B4B008F9551 /* GibberishUIKitUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GibberishUIKitUITests.swift; sourceTree = "<group>"; };
 		62BB24D528DB2B4B008F9551 /* GibberishUIKitUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GibberishUIKitUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		62BB24E328DB42F2008F9551 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +81,7 @@
 		62BB24A628DB2B48008F9551 = {
 			isa = PBXGroup;
 			children = (
+				62BB24E328DB42F2008F9551 /* .gitignore */,
 				62BB24B128DB2B48008F9551 /* GibberishUIKit */,
 				62BB24C828DB2B4B008F9551 /* GibberishUIKitTests */,
 				62BB24D228DB2B4B008F9551 /* GibberishUIKitUITests */,
@@ -231,6 +234,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				62BB24E428DB42F2008F9551 /* .gitignore in Resources */,
 				62BB24BF28DB2B4A008F9551 /* LaunchScreen.storyboard in Resources */,
 				62BB24BC28DB2B4A008F9551 /* Assets.xcassets in Resources */,
 				62BB24BA28DB2B48008F9551 /* Main.storyboard in Resources */,
